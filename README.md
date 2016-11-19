@@ -1,2 +1,2 @@
 # expressjs-opencv
-An expressjs API service for image processing functinality with open cv 
+An expressjs API service for image processing functionality with open cv 
